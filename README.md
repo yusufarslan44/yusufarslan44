@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Yusuf Arslan</h1>
 <h3 align="center">Computer Engineering Student | Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **Vue.js, Node.js and MySQL based projects**
+- 🔭 I’m currently working on **Vue.js, Node.js and MongoDB based projects**
 - 🌱 I’m currently learning **Nuxt.js** to level up my frontend skills
 - 💬 Ask me about **Vue.js, Node.js, MongoDB, MySQL, Vuetify, Pinia**
 - 💡 I’m always interested in **improving my full stack skills and collaborating on real-world projects**
