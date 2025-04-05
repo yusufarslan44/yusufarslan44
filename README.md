@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning **Nuxt.js** to level up my frontend skills
 - 💬 Ask me about **Vue.js, Node.js, MongoDB, MySQL, Vuetify, Pinia**
 - 💡 I’m always interested in **improving my full stack skills and collaborating on real-world projects**
-- 📫 How to reach me: **yusufarslan.dev[@]gmail.com**  
-- ⚡ Fun fact: I turn ☕ into code  🛠️
+- 📫 How to reach me: **yusufarslannn44[@]gmail.com**  
+- ⚡ Fun fact: I turn ☕ into code 🛠️
 
 ---
 
@@ -40,10 +40,10 @@
 ### 🌍 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yusufarslan44" target="_blank">
+  <a href="https://www.linkedin.com/in/yusuf-arslan-5553a1270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yusufarslan.dev@gmail.com">
+  <a href="mailto:yusufarslannn44@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
