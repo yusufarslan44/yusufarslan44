@@ -40,8 +40,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufarslan&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufarslan&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufarslan44&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufarslan44&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
