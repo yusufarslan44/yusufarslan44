@@ -35,16 +35,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufarslan44&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufarslan44&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
 
 ### 🌍 Let's Connect & Portfolio
 
