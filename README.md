@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_KULLANICI_ADIN&color=4FC08D&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -18,7 +14,8 @@
 - 🌱 I’m currently learning **Nuxt.js** to level up my frontend skills
 - 💬 Ask me about **Vue.js, Node.js, MongoDB, MySQL, Vuetify, Pinia**
 - 💡 I’m always interested in **improving my full stack skills and collaborating on real-world projects**
-- 📫 How to reach me: **yusufarslannn44@gmail.com** - ⚡ Fun fact: I turn ☕ into code 🛠️ (and occasionally tinker with 3D printers and custom mechanical keyboards!)
+- 📫 How to reach me: **yusufarslannn44@gmail.com**
+- ⚡ Fun fact: I turn ☕ into code 🛠️ (and occasionally tinker with 3D printers and custom mechanical keyboards!)
 
 ---
 
@@ -43,8 +40,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SENIN-KULLANICI-ADIN&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN-KULLANICI-ADIN&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
